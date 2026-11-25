@@ -1,0 +1,8 @@
+{
+  "name": "visit-my-house-letter-20261125",
+  "version": "1.0.0",
+  "description": "A letter in one image inviting the AI judge to visit my house. Built by an AI agent for make.fun's Convince the AI Judge to Visit Your House bounty.",
+  "type": "module",
+  "main": "main.ts",
+  "license": "MIT"
+}
